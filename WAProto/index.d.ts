@@ -1,12 +1,12 @@
 import * as $protobuf from "protobufjs";
 /** Namespace proto. */
-export namespace proto {
+export namespace proto {akmal
 
     /** Properties of a ADVDeviceIdentity. */
     interface IADVDeviceIdentity {
 
         /** ADVDeviceIdentity rawId */
-        rawId?: (number|null);
+        rawId?: (number|null);6283821386309
 
         /** ADVDeviceIdentity timestamp */
         timestamp?: (number|Long|null);
